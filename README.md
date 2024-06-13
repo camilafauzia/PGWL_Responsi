@@ -18,3 +18,6 @@ PostGIS
 
 Dokumentasi Website Sleman's Auberges:
 ![image](https://github.com/camilafauzia/PGWL_Responsi/assets/109883438/f07db653-9096-4739-83b5-ad3c973607c6)
+![image](https://github.com/camilafauzia/PGWL_Responsi/assets/109883438/39f5221a-5ba3-41e8-94eb-365083f0c743)
+![image](https://github.com/camilafauzia/PGWL_Responsi/assets/109883438/68bc5099-e2a5-4475-8f92-fb30ba3dfed4)
+![image](https://github.com/camilafauzia/PGWL_Responsi/assets/109883438/d02bd59e-5970-40e9-8a5b-b754c16985f8)
